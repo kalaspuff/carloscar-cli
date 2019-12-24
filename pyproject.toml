@@ -3,9 +3,9 @@ name = "carloscar"
 version = "0.0.1"
 description = "co – A command line interface for productivity and every-day tasks"
 authors = ["Carl Oscar Aaro <hello@carloscar.com>"]
-homepage = "https://github.com/kalaspuff/carloscar"
-repository = "https://github.com/kalaspuff/carloscar"
-keywords = ["carloscar", "co", "cli", "carl oscar"]
+homepage = "https://github.com/kalaspuff/carloscar-cli"
+repository = "https://github.com/kalaspuff/carloscar-cli"
+keywords = ["carloscar", "co", "cli", "carl oscar", "carloscar-cli"]
 readme = "README.md"
 license = "MIT"
 classifiers = [
@@ -25,7 +25,7 @@ classifiers = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.6 || ^3.7 || ^3.8"
+python = "^3.7 || ^3.8"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^3.7.9"
