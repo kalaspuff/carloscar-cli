@@ -31,6 +31,3 @@ jobs:
     - name: Type check with mypy
       run: |
         poetry run mypy carloscar/
-    - name: Codecov
-      run: |
-        poetry run codecov --token=${{ secrets.CODECOV_TOKEN }}
