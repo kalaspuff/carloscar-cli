@@ -1,8 +1,8 @@
 # `carloscar`
 [![pypi](https://badge.fury.io/py/carloscar.svg)](https://pypi.python.org/pypi/carloscar/)
 [![Made with Python](https://img.shields.io/pypi/pyversions/carloscar)](https://www.python.org/)
-[![Type hinted - mypy validated](https://img.shields.io/badge/typehinted-yes-teal)](https://github.com/kalaspuff/carloscar)
-[![MIT License](https://img.shields.io/github/license/kalaspuff/carloscar.svg)](https://github.com/kalaspuff/carloscar/blob/master/LICENSE)
+[![Type hinted - mypy validated](https://img.shields.io/badge/typehinted-yes-teal)](https://github.com/kalaspuff/carloscar-cli)
+[![MIT License](https://img.shields.io/github/license/kalaspuff/carloscar.svg)](https://github.com/kalaspuff/carloscar-cli/blob/master/LICENSE)
 
 *co – A command line interface for productivity and every-day tasks.*
 
