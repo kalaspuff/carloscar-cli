@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "carloscar"
-version = "0.0.4"
+version = "0.0.5"
 description = "carloscar cli – a command line interface for productivity and every-day tasks"
 authors = ["Carl Oscar Aaro <hello@carloscar.com>"]
 homepage = "https://github.com/kalaspuff/carloscar-cli"
