@@ -24,6 +24,9 @@ version:
 black:
 	poetry run black -l 120 carloscar/ tests/
 
+isort:
+	poetry run isort -rc carloscar/ tests/
+
 build:
 	rm -rf dist/
 	poetry build
