@@ -22,10 +22,10 @@ version:
 	poetry version `python carloscar/__version__.py`
 
 black:
-	poetry run black -l 120 carloscar/ tests/
+	poetry run black carloscar/ tests/
 
 isort:
-	poetry run isort -rc carloscar/ tests/
+	poetry run isort carloscar/ tests/
 
 build:
 	rm -rf dist/
